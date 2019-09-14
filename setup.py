@@ -1,6 +1,6 @@
 from setuptools import setup
 
-NAME = 'module'
+NAME = 'proxy_check'
 setup(
     name=NAME,
     # [bump]
